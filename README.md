@@ -24,7 +24,3 @@ To generate the movie trailer website type:
 ```
 python fresh_tomatoes.py
 ```
-
-# Credits
-This project is generated as part of Udacity's full-stack web development
-program.
